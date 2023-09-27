@@ -1,6 +1,7 @@
 import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import db
+import Aufgabe1
 
 cred = credentials.Certificate('finanzen-d1c2c-firebase-adminsdk-5qaxo-b1f0e33497.json')
 
@@ -15,6 +16,7 @@ def check_and_reset_task():
     for aufgabe, status in data.items():
         if status == True:
             print(f'Die Aufgabe "{aufgabe}" ist True.')
+            Aufgabe1.execAufgabe()
             try:  
                 ref.child(aufgabe).set(False)
                 
