@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 10.1.32.40
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1695199449991
+  login: 1695199382626
+money: '0'
+logoutlocation:
+  world: 17c42ddb-e3cd-4f44-86d8-6f0af7b30cee
+  world-name: world
+  x: 79.65749318478596
+  y: 116.53292827534491
+  z: 125.45039847094168
+  yaw: 32.25001907348633
+  pitch: -1.6499987840652466
+last-account-name: Hittenix
+lastlocation:
+  world: 17c42ddb-e3cd-4f44-86d8-6f0af7b30cee
+  world-name: world
+  x: 0.5
+  y: 0.0
+  z: 0.5
+  yaw: -36.74991989135742
+  pitch: -90.0

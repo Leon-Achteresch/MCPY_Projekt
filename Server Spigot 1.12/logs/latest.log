@@ -1,0 +1,1225 @@
+[20:10:01] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[20:10:01] [Server thread/INFO]: Loading properties
+[20:10:01] [Server thread/INFO]: Default game type: SURVIVAL
+[20:10:02] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-79a30d7-f4830a1 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[20:10:02] [Server thread/INFO]: Debug logging is disabled
+[20:10:02] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:10:02] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:10:02] [Server thread/INFO]: Generating keypair
+[20:10:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:10:02] [Server thread/INFO]: Using default channel type
+[20:10:04] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[20:10:04] [Server thread/INFO]: [NoteBlockAPI] Loading NoteBlockAPI v1.6.2-SNAPSHOT
+[20:10:04] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.9;caf0ad9
+[20:10:04] [Server thread/INFO]: [Essentials] Loading Essentials v2.21.0-dev+16-b900444
+[20:10:04] [Server thread/INFO]: [RaspberryJuice] Loading RaspberryJuice v1.11
+[20:10:04] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v5.1.0
+[20:10:06] [Server thread/INFO]: [LibsDisguises] Loading LibsDisguises v10.0.37
+[20:10:06] [Server thread/INFO]: [Morphy] Loading Morphy v3.2
+[20:10:06] [Server thread/INFO]: [TrollV4] Loading TrollV4 v4.5.15
+[20:10:06] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.1.0
+[20:10:06] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[20:10:06] [Server thread/INFO]: Preparing level "world"
+[20:10:06] [Server thread/INFO]: -------- World Settings For [world] --------
+[20:10:06] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:10:06] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:10:06] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:10:06] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:10:06] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[20:10:06] [Server thread/INFO]: View Distance: 10
+[20:10:06] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:10:06] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:10:06] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:10:06] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[20:10:06] [Server thread/INFO]: Mob Spawn Range: 4
+[20:10:06] [Server thread/INFO]: Random Lighting Updates: false
+[20:10:06] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:10:06] [Server thread/INFO]: Structure Info Saving: true
+[20:10:06] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[20:10:06] [Server thread/INFO]: Max TNT Explosions: 100
+[20:10:06] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:10:06] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:10:06] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:10:06] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:10:06] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:10:06] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:10:06] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:10:06] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:10:06] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:10:06] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:10:06] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:10:06] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[20:10:06] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:10:06] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:10:06] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:10:06] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:10:06] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[20:10:06] [Server thread/INFO]: View Distance: 10
+[20:10:06] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:10:06] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:10:06] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:10:06] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[20:10:06] [Server thread/INFO]: Mob Spawn Range: 4
+[20:10:06] [Server thread/INFO]: Random Lighting Updates: false
+[20:10:06] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:10:06] [Server thread/INFO]: Structure Info Saving: true
+[20:10:06] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[20:10:06] [Server thread/INFO]: Max TNT Explosions: 100
+[20:10:06] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:10:06] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:10:06] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:10:06] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:10:06] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:10:06] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:10:06] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:10:06] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:10:06] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:10:06] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:10:06] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:10:06] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[20:10:06] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:10:06] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:10:07] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:10:07] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:10:07] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[20:10:07] [Server thread/INFO]: View Distance: 10
+[20:10:07] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:10:07] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:10:07] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:10:07] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[20:10:07] [Server thread/INFO]: Mob Spawn Range: 4
+[20:10:07] [Server thread/INFO]: Random Lighting Updates: false
+[20:10:07] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:10:07] [Server thread/INFO]: Structure Info Saving: true
+[20:10:07] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[20:10:07] [Server thread/INFO]: Max TNT Explosions: 100
+[20:10:07] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:10:07] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:10:07] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:10:07] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:10:07] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:10:07] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:10:07] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:10:07] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:10:07] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:10:07] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:10:07] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:10:07] [Server thread/INFO]: Preparing start region for level 0 (Seed: 6861597124068313251)
+[20:10:08] [Server thread/INFO]: Preparing spawn area: 8%
+[20:10:09] [Server thread/INFO]: Preparing spawn area: 41%
+[20:10:10] [Server thread/INFO]: Preparing spawn area: 81%
+[20:10:10] [Server thread/INFO]: Preparing start region for level 1 (Seed: 4627003342855874567)
+[20:10:11] [Server thread/INFO]: Preparing spawn area: 42%
+[20:10:12] [Server thread/INFO]: Preparing spawn area: 73%
+[20:10:13] [Server thread/INFO]: Preparing start region for level 2 (Seed: 4627003342855874567)
+[20:10:13] [Server thread/INFO]: [NoteBlockAPI] Enabling NoteBlockAPI v1.6.2-SNAPSHOT
+[20:10:13] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.9;caf0ad9
+[20:10:13] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[20:10:13] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[20:10:13] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+16-b900444
+[20:10:13] [Server thread/INFO]: You are running a server with limited API functionality. EssentialsX will still work, but certain features may be disabled.
+[20:10:14] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[20:10:14] [Server thread/INFO]: No kits found to migrate.
+[20:10:14] [Server thread/INFO]: Loaded 853 items from items.csv.
+[20:10:14] [Server thread/INFO]: Using locale de_DE
+[20:10:14] [Server thread/INFO]: ServerListPingEvent: Spigot iterator API
+[20:10:14] [Server thread/INFO]: Starting Metrics. Opt-out using the global bStats config.
+[20:10:14] [Server thread/INFO]: Using superperms-based permissions.
+[20:10:14] [Server thread/INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.11
+[20:10:14] [Server thread/INFO]: [RaspberryJuice] Using port 4711
+[20:10:14] [Server thread/INFO]: [RaspberryJuice] Using RELATIVE locations
+[20:10:14] [Server thread/INFO]: [RaspberryJuice] Using RIGHT clicks for hits
+[20:10:14] [Server thread/INFO]: [RaspberryJuice] ThreadListener Started
+[20:10:14] [Server thread/INFO]: [LibsDisguises] Enabling LibsDisguises v10.0.37
+[20:10:14] [Server thread/INFO]: [LibsDisguises] File Name: LibsDisguises-10.0.37-Free.jar
+[20:10:14] [Server thread/INFO]: [LibsDisguises] Discovered nms version: v1_12_R1 (v1_12)
+[20:10:14] [Server thread/INFO]: [LibsDisguises] Jenkins Build: #1239
+[20:10:14] [Server thread/INFO]: [LibsDisguises] Build Date: 25/06/2023 07:08
+[20:10:14] [Server thread/INFO]: [LibsDisguises] If you own the plugin, place the premium jar downloaded from https://www.spigotmc.org/resources/libs-disguises.32453/ in plugins/LibsDisguises/
+[20:10:14] [Server thread/INFO]: [LibsDisguises] You are running the free version, commands limited to non-players and operators. (Console, Command Blocks, Admins)
+[20:10:15] [Server thread/INFO]: [LibsDisguises] Loaded custom disguise libraryaddict
+[20:10:15] [Server thread/INFO]: [LibsDisguises] Loaded 1 custom disguise
+[20:10:15] [Server thread/INFO]: [LibsDisguises] Config is up to date!
+[20:10:15] [Server thread/INFO]: [Morphy] Enabling Morphy v3.2
+[20:10:15] [Server thread/INFO]: Version: 1.12
+[20:10:15] [Server thread/ERROR]: Error occurred while enabling Morphy v3.2 (Is it up to date?)
+java.lang.NoSuchFieldError: ENTITY_OCELOT_AMBIENT
+	at me.bumblebeee_.morph.morphs.OcelotMorph.<init>(OcelotMorph.java:19) ~[?:?]
+	at me.bumblebeee_.morph.Main.onEnable(Main.java:57) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264) ~[spigot-1.12.2.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337) [spigot-1.12.2.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:403) [spigot-1.12.2.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugin(CraftServer.java:381) [spigot-1.12.2.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugins(CraftServer.java:330) [spigot-1.12.2.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.t(MinecraftServer.java:422) [spigot-1.12.2.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.l(MinecraftServer.java:383) [spigot-1.12.2.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.a(MinecraftServer.java:338) [spigot-1.12.2.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.init(DedicatedServer.java:272) [spigot-1.12.2.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:545) [spigot-1.12.2.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_381]
+[20:10:15] [Server thread/INFO]: [TrollV4] Enabling TrollV4 v4.5.15
+[20:10:17] [Server thread/INFO]: [TrollV4] -----------------------------------
+[20:10:17] [Server thread/INFO]: [TrollV4] TrollV4.5.15 by Presti
+[20:10:17] [Server thread/INFO]: [TrollV4] In case of errors please report:
+[20:10:17] [Server thread/INFO]: [TrollV4] Email: presti@presti.me
+[20:10:17] [Server thread/INFO]: [TrollV4] YouTube: Not Memerinoto
+[20:10:17] [Server thread/INFO]: [TrollV4] Otherwise have fun!
+[20:10:17] [Server thread/INFO]: [TrollV4] ------------------------------------
+[20:10:17] [Server thread/INFO]: [TrollV4] Plugin Version: 4.5.15
+[20:10:17] [Server thread/INFO]: [TrollV4] Server Version: v1_12_R1 - 1.12.2
+[20:10:17] [Server thread/INFO]: [TrollV4] Server Software: SPIGOT
+[20:10:17] [Server thread/INFO]: [TrollV4] Community Surprise is disabled!
+[20:10:17] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:10:18] [Server thread/INFO]: Done (11,743s)! For help, type "help" or "?"
+[20:10:18] [Craft Scheduler Thread - 0/INFO]: �6Fetching version information...
+[20:10:19] [Craft Scheduler Thread - 2/INFO]: [TrollV4] TrollV4 has no update
+[20:10:28] [Craft Scheduler Thread - 0/INFO]: [NoteBlockAPI] New update available!
+[20:10:58] [User Authenticator #1/INFO]: UUID of player GoldenRage22 is d9db2fb8-9907-4b6a-98ad-e8ed2d866357
+[20:10:58] [Server thread/INFO]: GoldenRage22[/127.0.0.1:58001] logged in with entity id 521 at ([world]75.23735554082435, 122.52726374944365, 136.54762335020308)
+[20:20:33] [Thread-11/INFO]: [RaspberryJuice] Starting input thread
+[20:20:33] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58166.
+[20:20:33] [Thread-12/INFO]: [RaspberryJuice] Starting output thread!
+[20:20:34] [Server thread/INFO]: Hallo, Welt![m
+[20:20:34] [Server thread/INFO]: Blöcke platziert![m
+[20:24:07] [Server thread/INFO]: Hallo, Welt![m
+[20:24:07] [Server thread/INFO]: Blöcke platziert![m
+[20:24:08] [Thread-11/INFO]: [RaspberryJuice] Connection reset
+[20:24:08] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58166.
+[20:34:06] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58422.
+[20:34:06] [Thread-13/INFO]: [RaspberryJuice] Starting input thread
+[20:34:06] [Thread-14/INFO]: [RaspberryJuice] Starting output thread!
+[20:34:48] [Thread-13/INFO]: [RaspberryJuice] Connection reset
+[20:34:48] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58422.
+[20:34:49] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58428.
+[20:34:49] [Thread-15/INFO]: [RaspberryJuice] Starting input thread
+[20:34:49] [Thread-16/INFO]: [RaspberryJuice] Starting output thread!
+[20:36:43] [Thread-15/INFO]: [RaspberryJuice] Connection reset
+[20:36:43] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58428.
+[20:36:44] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58454.
+[20:36:44] [Thread-17/INFO]: [RaspberryJuice] Starting input thread
+[20:36:44] [Thread-18/INFO]: [RaspberryJuice] Starting output thread!
+[20:37:56] [Thread-17/INFO]: [RaspberryJuice] Connection reset
+[20:37:56] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58454.
+[20:39:13] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58587.
+[20:39:13] [Thread-19/INFO]: [RaspberryJuice] Starting input thread
+[20:39:13] [Thread-20/INFO]: [RaspberryJuice] Starting output thread!
+[20:39:44] [Thread-19/INFO]: [RaspberryJuice] Connection reset
+[20:39:44] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58587.
+[20:39:45] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58611.
+[20:39:45] [Thread-21/INFO]: [RaspberryJuice] Starting input thread
+[20:39:45] [Thread-22/INFO]: [RaspberryJuice] Starting output thread!
+[20:40:23] [Craft Scheduler Thread - 3/INFO]: [LibsDisguises] Now looking for update on Github..
+[20:40:46] [Thread-21/INFO]: [RaspberryJuice] Connection reset
+[20:40:46] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58611.
+[20:41:28] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58644.
+[20:41:28] [Thread-24/INFO]: [RaspberryJuice] Starting output thread!
+[20:41:28] [Thread-23/INFO]: [RaspberryJuice] Starting input thread
+[20:41:35] [Thread-23/INFO]: [RaspberryJuice] Connection reset
+[20:41:35] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58644.
+[20:41:53] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58650.
+[20:41:53] [Thread-26/INFO]: [RaspberryJuice] Starting output thread!
+[20:41:53] [Thread-25/INFO]: [RaspberryJuice] Starting input thread
+[20:44:50] [Thread-25/INFO]: [RaspberryJuice] Connection reset
+[20:44:50] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58650.
+[20:44:51] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58673.
+[20:44:51] [Thread-27/INFO]: [RaspberryJuice] Starting input thread
+[20:44:51] [Thread-28/INFO]: [RaspberryJuice] Starting output thread!
+[20:45:44] [Thread-27/INFO]: [RaspberryJuice] Connection reset
+[20:45:44] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58673.
+[20:45:46] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58688.
+[20:45:46] [Thread-31/INFO]: [RaspberryJuice] Starting output thread!
+[20:45:46] [Thread-30/INFO]: [RaspberryJuice] Starting input thread
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:51] [Server thread/INFO]: Pressed b[m
+[20:45:55] [Server thread/INFO]: Pressed b[m
+[20:45:56] [Server thread/INFO]: <[0;31;22mGoldenRage22[m> f[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:45:57] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:17] [Server thread/INFO]: Pressed b[m
+[20:47:56] [Server thread/INFO]: Pressed b[m
+[20:47:56] [Server thread/INFO]: Pressed b[m
+[20:47:56] [Server thread/INFO]: Pressed b[m
+[20:47:56] [Server thread/INFO]: Pressed b[m
+[20:47:56] [Server thread/INFO]: Pressed b[m
+[20:47:56] [Server thread/INFO]: Pressed b[m
+[20:47:56] [Server thread/INFO]: Pressed b[m
+[20:47:56] [Server thread/INFO]: Pressed b[m
+[20:47:56] [Server thread/INFO]: Pressed b[m
+[20:47:56] [Server thread/INFO]: Pressed b[m
+[20:47:56] [Server thread/INFO]: Pressed b[m
+[20:47:56] [Server thread/INFO]: Pressed b[m
+[20:47:56] [Server thread/INFO]: Pressed b[m
+[20:47:56] [Server thread/INFO]: Pressed b[m
+[20:47:56] [Server thread/INFO]: Pressed b[m
+[20:47:56] [Server thread/INFO]: Pressed b[m
+[20:47:56] [Server thread/INFO]: Pressed b[m
+[20:47:56] [Server thread/INFO]: Pressed b[m
+[20:47:56] [Server thread/INFO]: Pressed b[m
+[20:47:56] [Server thread/INFO]: Pressed b[m
+[20:47:56] [Server thread/INFO]: Pressed b[m
+[20:47:56] [Server thread/INFO]: Pressed b[m
+[20:47:56] [Server thread/INFO]: Pressed b[m
+[20:47:56] [Server thread/INFO]: Pressed b[m
+[20:47:56] [Server thread/INFO]: Pressed b[m
+[20:47:56] [Server thread/INFO]: Pressed b[m
+[20:47:56] [Server thread/INFO]: Pressed b[m
+[20:47:56] [Server thread/INFO]: Pressed b[m
+[20:47:56] [Server thread/INFO]: Pressed b[m
+[20:47:56] [Server thread/INFO]: Pressed b[m
+[20:47:56] [Server thread/INFO]: Pressed b[m
+[20:47:56] [Server thread/INFO]: Pressed b[m
+[20:47:56] [Server thread/INFO]: Pressed b[m
+[20:47:56] [Server thread/INFO]: Pressed b[m
+[20:47:56] [Server thread/INFO]: Pressed b[m
+[20:47:56] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:04] [Server thread/INFO]: Pressed b[m
+[20:48:31] [Server thread/INFO]: Pressed b[m
+[20:48:31] [Server thread/INFO]: Pressed b[m
+[20:48:31] [Server thread/INFO]: Pressed b[m
+[20:48:31] [Server thread/INFO]: Pressed b[m
+[20:48:31] [Server thread/INFO]: Pressed b[m
+[20:48:31] [Server thread/INFO]: Pressed b[m
+[20:48:31] [Server thread/INFO]: Pressed b[m
+[20:48:31] [Server thread/INFO]: Pressed b[m
+[20:48:31] [Server thread/INFO]: Pressed b[m
+[20:48:31] [Server thread/INFO]: Pressed b[m
+[20:48:31] [Server thread/INFO]: Pressed b[m
+[20:48:31] [Server thread/INFO]: Pressed b[m
+[20:48:31] [Server thread/INFO]: Pressed b[m
+[20:48:31] [Server thread/INFO]: Pressed b[m
+[20:48:31] [Server thread/INFO]: Pressed b[m
+[20:48:31] [Server thread/INFO]: Pressed b[m
+[20:48:31] [Server thread/INFO]: Pressed b[m
+[20:48:31] [Server thread/INFO]: Pressed b[m
+[20:48:31] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:48:32] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:03] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:09] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:49:12] [Server thread/INFO]: Pressed b[m
+[20:51:00] [Thread-30/INFO]: [RaspberryJuice] Connection reset
+[20:51:00] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58688.
+[20:51:01] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58721.
+[20:51:01] [Thread-32/INFO]: [RaspberryJuice] Starting input thread
+[20:51:01] [Thread-33/INFO]: [RaspberryJuice] Starting output thread!
+[20:51:01] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58722.
+[20:51:01] [Thread-34/INFO]: [RaspberryJuice] Starting input thread
+[20:51:01] [Thread-35/INFO]: [RaspberryJuice] Starting output thread!
+[20:51:01] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58721.
+[20:51:01] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58722.
+[20:51:40] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58728.
+[20:51:40] [Thread-37/INFO]: [RaspberryJuice] Starting output thread!
+[20:51:40] [Thread-36/INFO]: [RaspberryJuice] Starting input thread
+[20:51:40] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58729.
+[20:51:40] [Thread-38/INFO]: [RaspberryJuice] Starting input thread
+[20:51:40] [Thread-39/INFO]: [RaspberryJuice] Starting output thread!
+[20:52:46] [Thread-38/INFO]: [RaspberryJuice] Connection reset
+[20:52:46] [Thread-36/INFO]: [RaspberryJuice] Connection reset
+[20:52:46] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58728.
+[20:52:46] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58729.
+[20:52:47] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58746.
+[20:52:47] [Thread-40/INFO]: [RaspberryJuice] Starting input thread
+[20:52:47] [Thread-41/INFO]: [RaspberryJuice] Starting output thread!
+[20:52:47] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58747.
+[20:52:47] [Thread-42/INFO]: [RaspberryJuice] Starting input thread
+[20:52:47] [Thread-43/INFO]: [RaspberryJuice] Starting output thread!
+[20:53:21] [Thread-42/INFO]: [RaspberryJuice] Connection reset
+[20:53:21] [Thread-40/INFO]: [RaspberryJuice] Connection reset
+[20:53:21] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58746.
+[20:53:21] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58747.
+[20:53:23] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58753.
+[20:53:23] [Thread-45/INFO]: [RaspberryJuice] Starting output thread!
+[20:53:23] [Thread-44/INFO]: [RaspberryJuice] Starting input thread
+[20:53:23] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58754.
+[20:53:23] [Thread-46/INFO]: [RaspberryJuice] Starting input thread
+[20:53:23] [Thread-47/INFO]: [RaspberryJuice] Starting output thread!
+[20:54:11] [Thread-46/INFO]: [RaspberryJuice] Connection reset
+[20:54:11] [Thread-44/INFO]: [RaspberryJuice] Connection reset
+[20:54:11] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58753.
+[20:54:11] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58754.
+[20:54:12] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58763.
+[20:54:12] [Thread-48/INFO]: [RaspberryJuice] Starting input thread
+[20:54:12] [Thread-49/INFO]: [RaspberryJuice] Starting output thread!
+[20:54:12] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58764.
+[20:54:12] [Thread-50/INFO]: [RaspberryJuice] Starting input thread
+[20:54:12] [Thread-51/INFO]: [RaspberryJuice] Starting output thread!
+[20:54:27] [Thread-50/INFO]: [RaspberryJuice] Connection reset
+[20:54:27] [Thread-48/INFO]: [RaspberryJuice] Connection reset
+[20:54:27] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58763.
+[20:54:27] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58764.
+[20:54:28] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58767.
+[20:54:28] [Thread-52/INFO]: [RaspberryJuice] Starting input thread
+[20:54:28] [Thread-53/INFO]: [RaspberryJuice] Starting output thread!
+[20:54:28] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58768.
+[20:54:28] [Thread-55/INFO]: [RaspberryJuice] Starting output thread!
+[20:54:28] [Thread-54/INFO]: [RaspberryJuice] Starting input thread
+[20:54:41] [Thread-54/INFO]: [RaspberryJuice] Connection reset
+[20:54:41] [Thread-52/INFO]: [RaspberryJuice] Connection reset
+[20:54:41] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58767.
+[20:54:41] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58768.
+[20:54:57] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58783.
+[20:54:57] [Thread-56/INFO]: [RaspberryJuice] Starting input thread
+[20:54:57] [Thread-57/INFO]: [RaspberryJuice] Starting output thread!
+[20:54:57] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58784.
+[20:54:57] [Thread-59/INFO]: [RaspberryJuice] Starting output thread!
+[20:54:57] [Thread-58/INFO]: [RaspberryJuice] Starting input thread
+[20:55:33] [Thread-58/INFO]: [RaspberryJuice] Connection reset
+[20:55:33] [Thread-56/INFO]: [RaspberryJuice] Connection reset
+[20:55:33] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58783.
+[20:55:33] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58784.
+[20:55:35] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58792.
+[20:55:35] [Thread-60/INFO]: [RaspberryJuice] Starting input thread
+[20:55:35] [Thread-61/INFO]: [RaspberryJuice] Starting output thread!
+[20:55:35] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58793.
+[20:55:35] [Thread-62/INFO]: [RaspberryJuice] Starting input thread
+[20:55:35] [Thread-63/INFO]: [RaspberryJuice] Starting output thread!
+[20:55:36] [Thread-62/INFO]: [RaspberryJuice] Connection reset
+[20:55:36] [Thread-60/INFO]: [RaspberryJuice] Connection reset
+[20:55:37] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58792.
+[20:55:37] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58793.
+[20:55:41] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58794.
+[20:55:41] [Thread-64/INFO]: [RaspberryJuice] Starting input thread
+[20:55:41] [Thread-65/INFO]: [RaspberryJuice] Starting output thread!
+[20:55:41] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58795.
+[20:55:41] [Thread-66/INFO]: [RaspberryJuice] Starting input thread
+[20:55:41] [Thread-67/INFO]: [RaspberryJuice] Starting output thread!
+[20:56:04] [Thread-66/INFO]: [RaspberryJuice] Connection reset
+[20:56:04] [Thread-64/INFO]: [RaspberryJuice] Connection reset
+[20:56:04] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58794.
+[20:56:04] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58795.
+[20:56:05] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58802.
+[20:56:05] [Thread-68/INFO]: [RaspberryJuice] Starting input thread
+[20:56:05] [Thread-69/INFO]: [RaspberryJuice] Starting output thread!
+[20:56:05] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58803.
+[20:56:05] [Thread-70/INFO]: [RaspberryJuice] Starting input thread
+[20:56:05] [Thread-71/INFO]: [RaspberryJuice] Starting output thread!
+[20:56:08] [Server thread/INFO]: b pressed[m
+[20:56:08] [Server thread/INFO]: b pressed[m
+[20:56:09] [Server thread/INFO]: b pressed[m
+[20:56:09] [Server thread/INFO]: b pressed[m
+[20:56:10] [Server thread/INFO]: b pressed[m
+[20:56:10] [Server thread/INFO]: b pressed[m
+[20:56:10] [Server thread/INFO]: b pressed[m
+[20:56:10] [Server thread/INFO]: b pressed[m
+[20:56:10] [Server thread/INFO]: b pressed[m
+[20:56:10] [Server thread/INFO]: b pressed[m
+[20:56:10] [Server thread/INFO]: b pressed[m
+[20:56:11] [Server thread/INFO]: b pressed[m
+[20:56:11] [Server thread/INFO]: b pressed[m
+[20:56:11] [Server thread/INFO]: b pressed[m
+[20:56:11] [Server thread/INFO]: b pressed[m
+[20:56:11] [Server thread/INFO]: b pressed[m
+[20:56:11] [Server thread/INFO]: b pressed[m
+[20:56:11] [Server thread/INFO]: b pressed[m
+[20:56:11] [Server thread/INFO]: b pressed[m
+[20:56:11] [Server thread/INFO]: b pressed[m
+[20:56:11] [Server thread/INFO]: b pressed[m
+[20:56:11] [Server thread/INFO]: b pressed[m
+[20:56:14] [Server thread/INFO]: <[0;31;22mGoldenRage22[m> asd[m
+[20:56:15] [Server thread/INFO]: b pressed[m
+[20:56:16] [Server thread/INFO]: b pressed[m
+[20:56:17] [Server thread/INFO]: b pressed[m
+[20:56:17] [Server thread/INFO]: b pressed[m
+[20:56:17] [Server thread/INFO]: b pressed[m
+[20:56:17] [Server thread/INFO]: b pressed[m
+[20:56:17] [Server thread/INFO]: b pressed[m
+[20:56:17] [Server thread/INFO]: b pressed[m
+[20:56:17] [Server thread/INFO]: b pressed[m
+[20:56:43] [Server thread/INFO]: b pressed[m
+[20:56:46] [Thread-68/INFO]: [RaspberryJuice] Connection reset
+[20:56:46] [Thread-70/INFO]: [RaspberryJuice] Connection reset
+[20:56:46] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58802.
+[20:56:46] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58803.
+[20:56:47] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58815.
+[20:56:47] [Thread-73/INFO]: [RaspberryJuice] Starting output thread!
+[20:56:47] [Thread-72/INFO]: [RaspberryJuice] Starting input thread
+[20:56:47] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58816.
+[20:56:47] [Thread-74/INFO]: [RaspberryJuice] Starting input thread
+[20:56:47] [Thread-75/INFO]: [RaspberryJuice] Starting output thread!
+[20:56:47] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58815.
+[20:56:47] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58816.
+[20:57:36] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58826.
+[20:57:36] [Thread-77/INFO]: [RaspberryJuice] Starting output thread!
+[20:57:36] [Thread-76/INFO]: [RaspberryJuice] Starting input thread
+[20:57:36] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58827.
+[20:57:36] [Thread-79/INFO]: [RaspberryJuice] Starting output thread!
+[20:57:36] [Thread-78/INFO]: [RaspberryJuice] Starting input thread
+[20:58:04] [Thread-78/INFO]: [RaspberryJuice] Connection reset
+[20:58:04] [Thread-76/INFO]: [RaspberryJuice] Connection reset
+[20:58:04] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58826.
+[20:58:04] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58827.
+[20:58:05] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58833.
+[20:58:05] [Thread-81/INFO]: [RaspberryJuice] Starting output thread!
+[20:58:05] [Thread-80/INFO]: [RaspberryJuice] Starting input thread
+[20:58:05] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58834.
+[20:58:05] [Thread-82/INFO]: [RaspberryJuice] Starting input thread
+[20:58:05] [Thread-83/INFO]: [RaspberryJuice] Starting output thread!
+[20:59:10] [Thread-80/INFO]: [RaspberryJuice] Connection reset
+[20:59:10] [Thread-82/INFO]: [RaspberryJuice] Connection reset
+[20:59:10] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58833.
+[20:59:10] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58834.
+[20:59:11] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58843.
+[20:59:11] [Thread-84/INFO]: [RaspberryJuice] Starting input thread
+[20:59:11] [Thread-85/INFO]: [RaspberryJuice] Starting output thread!
+[20:59:11] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58844.
+[20:59:11] [Thread-87/INFO]: [RaspberryJuice] Starting output thread!
+[20:59:11] [Thread-86/INFO]: [RaspberryJuice] Starting input thread
+[21:02:35] [Thread-86/INFO]: [RaspberryJuice] Connection reset
+[21:02:35] [Thread-84/INFO]: [RaspberryJuice] Connection reset
+[21:02:35] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58843.
+[21:02:35] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58844.
+[21:02:37] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58869.
+[21:02:37] [Thread-88/INFO]: [RaspberryJuice] Starting input thread
+[21:02:37] [Thread-89/INFO]: [RaspberryJuice] Starting output thread!
+[21:02:37] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58870.
+[21:02:37] [Thread-91/INFO]: [RaspberryJuice] Starting output thread!
+[21:02:37] [Thread-90/INFO]: [RaspberryJuice] Starting input thread
+[21:03:02] [Thread-90/INFO]: [RaspberryJuice] Connection reset
+[21:03:02] [Thread-88/INFO]: [RaspberryJuice] Connection reset
+[21:03:02] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58869.
+[21:03:02] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58870.
+[21:03:02] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58876.
+[21:03:02] [Thread-93/INFO]: [RaspberryJuice] Starting output thread!
+[21:03:02] [Thread-92/INFO]: [RaspberryJuice] Starting input thread
+[21:03:02] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58877.
+[21:03:02] [Thread-94/INFO]: [RaspberryJuice] Starting input thread
+[21:03:02] [Thread-95/INFO]: [RaspberryJuice] Starting output thread!
+[21:03:06] [Server thread/INFO]: asd[m
+[21:03:06] [Server thread/INFO]: asd[m
+[21:03:07] [Server thread/INFO]: asd[m
+[21:03:07] [Server thread/INFO]: asd[m
+[21:03:40] [Server thread/INFO]: asd[m
+[21:03:58] [Thread-94/INFO]: [RaspberryJuice] Connection reset
+[21:03:58] [Thread-92/INFO]: [RaspberryJuice] Connection reset
+[21:03:58] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58876.
+[21:03:58] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58877.
+[21:05:36] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58905.
+[21:05:36] [Thread-96/INFO]: [RaspberryJuice] Starting input thread
+[21:05:36] [Thread-97/INFO]: [RaspberryJuice] Starting output thread!
+[21:05:36] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58906.
+[21:05:36] [Thread-98/INFO]: [RaspberryJuice] Starting input thread
+[21:05:36] [Thread-99/INFO]: [RaspberryJuice] Starting output thread!
+[21:06:05] [Thread-96/INFO]: [RaspberryJuice] Connection reset
+[21:06:05] [Thread-98/INFO]: [RaspberryJuice] Connection reset
+[21:06:05] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58905.
+[21:06:05] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58906.
