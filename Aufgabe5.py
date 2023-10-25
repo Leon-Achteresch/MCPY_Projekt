@@ -5,7 +5,7 @@ class Roof:
     def __init__(self, pos, bw: Minecraft, roof_material_id=45, width=6, depth=6):
         self.__mc: Minecraft = bw
         self.pos = pos
-        self.material_id = roof_material_id
+        self.roof_material_id = roof_material_id
         self.width = width
         self.depth = depth
 
@@ -13,7 +13,7 @@ class Roof:
         print('build')
         self.__mc.postToChat('building')
         x, y, z = self.pos
-        self.__mc.setBlocks(x +1,y,z +1,x + self.width +1, y, z + self.depth +1, self.material_id)
+        self.__mc.setBlocks(x +1,y,z +1,x + self.width +1, y, z + self.depth +1, self.roof_material_id)
 
 def execAufgabe5():
     def build(mc:Minecraft):
