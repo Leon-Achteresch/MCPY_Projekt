@@ -1,5 +1,6 @@
 from mcpi.minecraft import Minecraft
 import keyboard
+import random
 
 class House:
     def __init__(self, pos, bw: Minecraft, wallFront, wallLeft, wallBack, wallRight, roof):
@@ -20,6 +21,12 @@ class House:
         self.wallLeft.build()
         self.wallBack.build()
         self.WallRight.build()
+
+    def change_wall_material(self, new_materail_id):
+        self.wallFront.material_id = new_materail_id
+        self.wallLeft.material_id = new_materail_id
+        self.wallBack.material_id = new_materail_id
+        self.WallRight.material_id = new_materail_id
 
 class Roof:
     def __init__(self, pos, bw: Minecraft, roof_material_id=45, width=6, depth=6):
@@ -95,7 +102,9 @@ def execAufgabe6():
         roof        = Roof(pos=(player_pos.x , player_pos.y +6, player_pos.z), roof_material_id=45, width=6, depth=6, bw = mc)
         
         house = House(pos=(player_pos.x , player_pos.y +6, player_pos.z), wallFront=wallFront, wallLeft=wallLeft, wallBack=wallBack, wallRight=wallRight, roof=roof, bw=mc)
+        house.change_wall_material(random.randint(1, 100))
         house.build()
+        
         
 
     mc = Minecraft.create(address="10.1.48.81", port=4711)
@@ -104,7 +113,6 @@ def execAufgabe6():
     print("Mit Server verbunden. Warte auf Input...")   
     
     keyboard.on_press_key('b', lambda e: build(mc))
-
     # Halte das Programm am Laufen
     keyboard.wait()
     
